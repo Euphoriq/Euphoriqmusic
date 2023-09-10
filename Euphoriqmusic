@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Euphoriqmusic</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #222;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h1, h2 {
+            color: #00CED1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Euphoriqmusic</h1>
+        <h2>Ubong Peter Asangsusung (Euphoriq)</h2>
+        <p>
+            Ubong Peter Asangsusung (born 25 July 1992), known professionally as Euphoriq, is a Nigerian singer, song writer, guitarist, recording and performing artist. He is a graduate of Banking and Finance from the University of Calabar, Calabar, Nigeria.
+        </p>
+        <p>
+            Euphoriq began his music career by performing live acoustic music weekly on the Hit breakfast show at Hit95.9FM Calabar. He moved on to performing at private parties, concerts, clubs, open mic sessions, listening rooms, and music festivals. He has also been a contestant on The Voice Nigeria Season 4, Covers Africa Season 2.
+        </p>
+        <p>
+            Known for a crispy, raspy yet soothing voice texture, his repertoire consists of an acoustic variety of pop, rock, afro rock, afro soul and classics.
+        </p>
+        <p>
+            Known for putting out covers that leave his fans basking in the euphoria of his melodious rendition, he is currently working on an EP project that would be his first official body of work.
+        </p>
+    </div>
+</body>
+</html>
